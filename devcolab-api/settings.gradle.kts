@@ -1,0 +1,1 @@
+rootProject.name = "devcolab-api"
